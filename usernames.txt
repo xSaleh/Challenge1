@@ -1,0 +1,9 @@
+carlos
+root
+admin
+ClearOne
+guest
+info
+adm
+mysql
+ClearOne
